@@ -20,7 +20,7 @@ As of Laravel 8 the following  technologies are part of the core stack that you 
 
 There are many different ways and tools to configure a laravel development environment.    I have a recipe on how to install and configure laravel.    You can can follow it or not, however __if you don't use the development environment provided YOU!! are responible for diagnoising any and all related issues.__    While this may seem harse, I don't have the time to diagnose every development environment on the planet.   
 
-Please read the following instruction on the Approved [Laravel Develpment Environment](larave/laravel-6-from-scratch.md)
+Please read the following instruction on the Approved [Laravel Develpment Environment](laravel/laravel-6-from-scratch.md)
 
 
 ### Laravel Training Material
