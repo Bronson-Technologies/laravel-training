@@ -32,6 +32,51 @@ If it works you will see the version number `7.4.13`  If its a different version
 If it doesn't work you get the message `'php' is not recognized as an internal or external command.`  
 If you get the error the following guide will help you add to your system path.   However you need to know the path your php instalation.  If you installed in `C:\xammp` as was suggested the path would be `C:\xampp\php`    https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/
 
-If you the above works you can 
+If you the above works you can continue
+
+I would create a directory for composer I user
+`C:\xampp\compopser`
+
+Then follow the instructions to install composer
+
 https://getcomposer.org/doc/00-intro.md
+
+Create a batch file for composer to run in the directory ie. `C:\xampp\composer\composer.bat`
+
+`@ECHO OFF`
+
+`php C:\xampp\composer\composer.phar %*`
+
+Make sure the composer directory is in your path as well,   Same steps as php above
+
+Open a command prompt and run `composer`.   You should get a valid response
+
+### Node Js
+You need npm and another package that is part of nodejs
+https://nodejs.org/en/download/
+
+At this point you should be good to go to test it.
+However you might as well make sure that the IDE is installed
+
+### Git
+
+https://git-scm.com/downloads
+
+### Visual Studio Code
+
+https://code.visualstudio.com/download
+
+Hey I have some plugins I will list here as well that you probably should have
+
+### Test it out
+
+1. Open the Xammp control panel and start apache and mysql
+2. Open http://localhost you should see the dashboard
+3. Perform the section  https://laravel.com/docs/8.x#installation-via-composer    after running php artisan server  visit the url you should get a page
+4. Perform this section (note it is optional) https://laravel.com/docs/8.x#the-laravel-installer
+
+Note the above steps are not using apache, however it will telll your laravel install is good.
+
+Sorry thats it for today.
+
 
