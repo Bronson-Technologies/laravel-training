@@ -51,7 +51,66 @@ Skip this is really replaced by livewire, again you can still use this model, bu
     30. Understand Foriegn Keys and Database Factories
         ** Foriegn keys portion is still valid, 
         ** Factories changed see Whats new in laravel 8
-    31.
-    32.
-    33.
+    31. Many to Many Relationships With Linking Tables
+    32. SKIP - Controllers
+    33. SKIP - Controllers
+
+##### Section 8 - Authentication
+    SKIP - Authentication replaced by Jetstream
+
+##### Section 9 - Core Concepts
+    36. Collections
+    37. CSRF Attacks  - Note this is good to know
+
+##### Section 10 - MAIL
+    42. Collections
+    43. Simulate Inbox Using Mailtrap (FYI - I have a subscription)
+    44. Send HTML Emails Using
+    45. Sent Email Using MarkDwon
+    46. Notifications Versus Mailables
+
+##### Section 11 - Notificaitons
+    47. Database Notifications
+    48. Skip
+
+##### Section 12 - Authorizatoin
+    49. Events Pro's and Cons
+
+##### Section 13 - Authorizatoin
+    47. Database Notifications
+    48. Skip
+
+##### Section 14 - Events
+    49. Eventing Pro's and Con's
+
+##### Section 15 - Authorization
+    WATCH Entire seetion
+
+# STOP With laravel 6
+
+I would say call it quits with this.   However I would watch some of the Whats new in Laravel 7 and Laravel 8 Series
+
+## What's new in laravel 7
+https://laracasts.com/series/whats-new-in-laravel-7
+
+Watch all of it 
+
+## What's new in laravel 8
+https://laracasts.com/series/whats-new-in-laravel-7
+
+    1. SKIP 
+    2. The New Models Directory
+    3. SKIP
+    4. Class based model Factories
+    5. MOdel Factor relationships
+    6. SKIP
+    7. Cleaner Clouser-Based Event Listeners
+    8. SKIP
+    9. SKIP
+    10. JETSTREAM  *** IMPORTANT ***
+    11. SKIP
+    12. SKIP
+
+
+
 
