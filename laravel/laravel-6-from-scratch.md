@@ -86,31 +86,8 @@ Skip this is really replaced by livewire, again you can still use this model, bu
 ##### Section 15 - Authorization
     WATCH Entire seetion
 
-# STOP With laravel 6
+### STOP With laravel 6
 
-I would say call it quits with this.   However I would watch some of the Whats new in Laravel 7 and Laravel 8 Series
+I would say call it quits with this.   However I would watch some of the Whats new in Laravel  Series
 
-## What's new in laravel 7
-https://laracasts.com/series/whats-new-in-laravel-7
-
-Watch all of it 
-
-## What's new in laravel 8
-https://laracasts.com/series/whats-new-in-laravel-7
-
-    1. SKIP 
-    2. The New Models Directory
-    3. SKIP
-    4. Class based model Factories
-    5. MOdel Factor relationships
-    6. SKIP
-    7. Cleaner Clouser-Based Event Listeners
-    8. SKIP
-    9. SKIP
-    10. JETSTREAM  *** IMPORTANT ***
-    11. SKIP
-    12. SKIP
-
-
-
-
+[whats-new-in-laravel.md](whats-new-in-laravel.md)

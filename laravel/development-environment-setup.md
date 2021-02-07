@@ -97,5 +97,11 @@ Hey I have some plugins I will list here as well that you probably should have
 
 Note the above steps are not using apache, however it will tell your laravel install is good.
 
+### XDEBUG
+
+While I haven't looked at this video, I've been told its good at setting up XDEBUG.  Supports interactive debugging and breakpoints, etc.
+
+https://www.youtube.com/watch?v=LNIvugvmCyQ&t=206s
+
 Sorry thats it for today.
 

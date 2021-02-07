@@ -33,16 +33,16 @@ If I were knew to Laravel and want to get up to speed as fast as possible I woul
 
 This series goes over the entire Laravel functionality as of version 6.0.   Many things have changed, but much are still relatively the same.   The following page [Laravel 6 from scratch series ](laravel/laravel-6-from-scratch.md) goes over the relevant episodes that you should watch.
 
-#### Whats new in Laravel Laravel 8 
+#### Whats new in Laravel 
 
-This series goes over the changes introduced in Laravel 8.   Not all of the episodes are relavent.   Some discuss how to maintain production servers or collapsing migrations.   This are issues which are relvant to existing systems, not brand new projects.   The following page [Whats new in Laravel 8 ](laravel/laravel-6-from-scratch.md) lists the relevant episodes and what to skip and why.
+This series goes over the changes introduced in Laravel 7 & 8.   Not all of the episodes are relavent.   Some discuss how to maintain production servers or collapsing migrations.   This are issues which are relvant to existing systems, not brand new projects.   The following page [Whats new in Laravel  ](laravel/whats-new-in-laravel.md) lists the relevant episodes and what to skip and why.
 
 
 ### Livewire and AlpineJS Training Material
 
-The most comprehensive guid that I can find so far is from the creators content on their maing website laravel-livewire.com .   The first two sections are free.   I do have most of the restricted content as I am a contributor.   I may make that content available
+The most comprehensive guid that I can find so far is from the creators content on their maing website laravel-livewire.com .   The first two sections are free.   If you need access to the private content let me know.  The following page describes my recommended minimum material.
 
-    https://laravel-livewire.com/screencasts
+    [Laravel Livewire Training](laravel/laravel-livewire.md)
 
 
 ### Laravel JetStream Training Material
