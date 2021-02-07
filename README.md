@@ -42,7 +42,7 @@ This series goes over the changes introduced in Laravel 7 & 8.   Not all of the 
 
 The most comprehensive guid that I can find so far is from the creators content on their maing website laravel-livewire.com .   The first two sections are free.   If you need access to the private content let me know.  The following page describes my recommended minimum material.
 
-    [Laravel Livewire Training](laravel/laravel-livewire.md)
+[Laravel Livewire Training](laravel/laravel-livewire.md)
 
 
 ### Laravel JetStream Training Material
