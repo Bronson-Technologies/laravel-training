@@ -48,7 +48,7 @@ Composer is a package manager and you need to install it so that you can manage 
 If you the above works you can continue
 
 I would create a directory for composer I user
-`C:\xampp\compopser`
+`C:\xampp\composer`
 
 Then follow the instructions to install composer
 
